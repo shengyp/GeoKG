@@ -11,7 +11,6 @@ Table of Contents
   * [Survey](#Survey)
   * [Food Computation](#Food_Computation)
   * [Food Knowledge Graph](#Food_Knowledge_Graph)
-  * [Recipe Representation Learning](#Recipe_Representation_Learning)
   * [Talks](#Talks)
 <!--   * [Temporal Relation Checking](#Temporal_Relation_Checking) -->
 
@@ -33,11 +32,6 @@ Table of Contents
 
 
 3. Weiqing Min, Shuqiang Jiang, Ramesh C. Jain. [Food Recommendation: Framework, Existing Solutions, and Challenges](https://ieeexplore.ieee.org/document/8930090). IEEE Access. 2020. 
-
-
-
-## Recipe_Representation_Learning
-1. Diya Li and Mohammed J. Zaki. [Reciptor: An Effective Pretrained Model for Recipe Representation Learning](http://www.cs.rpi.edu/~zaki/PaperDir/SIGKDD20.pdf). KDD 2020. [[Paper]](http://www.cs.rpi.edu/~zaki/PaperDir/SIGKDD20.pdf)
 
 
 
